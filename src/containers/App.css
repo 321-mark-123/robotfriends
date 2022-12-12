@@ -2,7 +2,7 @@
     font-family : 'Jost-VariableFont_wght';
     font-style  : normal;
     font-weight : normal;
-    src         : local('Jost-VariableFont_wght'), url('./fonts/Jost-VariableFont_wght.woff2') format(woff);
+    src         : local('Jost-VariableFont_wght'), url('../fonts/Jost-VariableFont_wght.woff2') format(woff);
 }
 
 h1 {
